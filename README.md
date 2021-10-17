@@ -14,6 +14,6 @@ $ cd website-information
 
 $ chmod +x *
 
-$ python info.py
+$ python2 info.py
 
 #You can bring its information by entering any website
