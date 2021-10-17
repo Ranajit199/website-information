@@ -1,5 +1,6 @@
 # website-information
-All the information can be seen by entering the website here ....
+All the information can be seen by entering the website here ...
+## Termux Install and Run Command---
 
 
 $ apt-get update
