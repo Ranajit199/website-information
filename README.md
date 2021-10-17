@@ -17,4 +17,5 @@ $ chmod +x *
 
 $ python2 info.py
 
-#You can bring its information by entering any website
+
+### If there is any problem, let us know in the comments
