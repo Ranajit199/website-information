@@ -15,3 +15,5 @@ $ cd website-information
 $ chmod +x *
 
 $ python info.py
+
+#You can bring its information by entering any website
